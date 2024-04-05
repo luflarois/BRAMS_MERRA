@@ -1,0 +1,7 @@
+1. Para compilar:
+
+gfortran -o merra merraMod.F90 dump.F90 utilsMod.f90 -I.
+
+2. para rodar:
+
+Sao necessarios os dados do Merra, MERRA2_400.tavg1_2d_aer_Nx.AAAAMMDD.nc4, onde AAAAMMDD corresponde a data.

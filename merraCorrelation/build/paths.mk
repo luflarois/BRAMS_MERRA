@@ -1,0 +1,3 @@
+# FIXED VALUES
+SRC_PATH=../src
+
